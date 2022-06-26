@@ -12,4 +12,13 @@ for Windows use this command:
 cd *file lication*
 ```
 
-3.
+3. Start tracking this folder by git (create a repository)
+``` sh
+git init
+```
+
+4. Add files which you need to track
+``` sh
+git add *Name of file* 
+```
+*Note: you can enter 3 letter and use button "Tab"*
