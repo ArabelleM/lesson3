@@ -35,13 +35,13 @@ git commit --m "your message"
 
 ## Command to work with git
 
-1. *git init*
-2. *git add "Name.file*
-2.1 *git add --all*
-3. *git commit --m "message"*
-4. *git status*
-5. *git log*
-6. *git log --oneline*
-7. *git checkout "Name.file"*
-8. *git checkout master*
-9. *git diff*
+1. *git init* - start tracking by git in this folder / create a new repository
+2. *git add "Name.file* add file in this folder to track by git
+3. *git add --all* - add all files in this folder to track by git
+3. *git commit --m "message"* - attach message 
+4. *git status* - see information about tracking by git
+5. *git log* - see all commits 
+6. *git log --oneline* - see all commits (compact view)
+7. *git checkout "Name.file"* - see past commits
+8. *git checkout master* - return at the last file
+9. *git diff* - see different between commits
