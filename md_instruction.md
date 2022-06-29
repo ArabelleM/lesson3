@@ -6,7 +6,7 @@
 
 ## Quote
 
-> first lvl of qiote
+> First lvl of qiote
 >> Second lvl of qiote
 
 
