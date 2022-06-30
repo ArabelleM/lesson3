@@ -45,6 +45,7 @@ To make crossed out text use tilda ~(no site, symbol)~
 Whrite your code here
 ```
 
+conflict here
 
 ## Add images apple
 
