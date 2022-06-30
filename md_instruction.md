@@ -39,7 +39,12 @@ To make crossed out text use tilda ~(no site, symbol)~
 >> Second lvl of quote
 >>> Third lvl of quote
 
-## Like code window
+## Like code windows
+
+```sh
+Whrite your code here
+```
+
 
 ## Add images apple
 
