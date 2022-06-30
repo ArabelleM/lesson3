@@ -20,6 +20,8 @@ You can use Alternative ways to combinate it.
 **_Example_**
 
 
+To make crossed out text use tilda ~(no site, symbol)~
+
 ## Quote
 
 > First lvl of quote
@@ -51,3 +53,5 @@ To create numbered list use numbers and dot at the begining
 2. second
 
 ## Spoilers (I like spoilers!)
+
+
