@@ -2,6 +2,7 @@
 
 ## Level of heading
 
+
 # First lvl
 ## Second
 ### Third
@@ -38,6 +39,7 @@ To make crossed out text use tilda ~(no site, symbol)~
 >> Second lvl of quote
 >>> Third lvl of quote
 
+## Like code window
 
 ## Add images apple
 
