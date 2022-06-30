@@ -45,6 +45,9 @@ To make crossed out text use tilda ~(no site, symbol)~
 Whrite your code here
 ```
 
+``there is text like code. Use ` at the begining and at the end``
+
+
 
 ## Add images apple
 
