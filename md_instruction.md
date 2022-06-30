@@ -12,5 +12,6 @@
 
 
 ## Add images apple
-There is an apple.
-![apple](apple.jpg)
+
+There is an orange.
+![orange](orange.png)
