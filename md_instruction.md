@@ -13,4 +13,4 @@
 
 ## Add images apple
 There is an apple.
-![apple]{apple.jpg}
+![apple](apple.jpg)
