@@ -2,7 +2,23 @@
 
 ## Fromating
 
-**Bold**
+To make text italic use an asterisk symbol (*) or underscore at the begining and at the end. 
+
+*Example*
+
+_Example_
+
+
+To make text bold use a dooble asterisk symbol (**) at the begining and at the end.
+
+**Example**
+
+__Example__
+
+You can use Alternative ways to combinate it.
+
+**_Example_**
+
 
 ## Quote
 
