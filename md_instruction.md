@@ -2,7 +2,7 @@
 
 ## Fromating
 
-**Bold**
+
 
 ## Quote
 
@@ -22,3 +22,14 @@ There is an orange
 
 To make a link use:
 [Name of link](https://translate.yandex.ru "hint")
+
+## Lists
+
+To create no numbered list use asterisk symbol (*) or "+" at the begining 
+* firts
+* second
++ thrid
+
+To create numbered list use numbers and dot at the begining
+1. first
+2. second
