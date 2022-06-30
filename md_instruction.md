@@ -1,5 +1,16 @@
 # Markdown instruction
 
+## Level of heading
+
+# First lvl
+## Second
+### Third
+#### forth
+##### fifth
+###### sixth
+ There are six levels. No more.
+
+
 ## Fromating
 
 To make text italic use an asterisk symbol (*) or underscore at the begining and at the end. 
@@ -19,7 +30,6 @@ You can use Alternative ways to combinate it.
 
 **_Example_**
 
-
 To make crossed out text use tilda ~(no site, symbol)~
 
 ## Quote
@@ -32,8 +42,11 @@ To make crossed out text use tilda ~(no site, symbol)~
 ## Add images apple
 
 There is an apple
+
 ![apple](apple.jpg)
+
 There is an orange
+
 ![orange](orange.png)
 
 ## Links
@@ -51,7 +64,4 @@ To create no numbered list use asterisk symbol (*) or "+" at the begining
 To create numbered list use numbers and dot at the begining
 1. first
 2. second
-
-## Spoilers (I like spoilers!)
-
 
