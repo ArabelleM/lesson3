@@ -18,5 +18,7 @@ There is an apple
 There is an orange
 ![orange](orange.png)
 
+## Links
 
-## What are you doing...
+To make a link use:
+[Name of link](https://translate.yandex.ru "hint")
