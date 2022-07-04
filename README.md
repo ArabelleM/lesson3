@@ -7,4 +7,4 @@ Added string by browser. Add text for conflict.
 Add text by local device.
 
 
-Add text at mew branch.
+Add text at new branch.
